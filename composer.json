@@ -19,6 +19,11 @@
     "silverstripe/cms": "^5.0",
     "symbiote/silverstripe-gridfieldextensions": "^4.0"
   },
+  "autoload": {
+    "psr-4": {
+      "gorriecoe\\DataObjectHistory\\": "src/"
+    }
+  },
   "extra": {
     "installer-name": "dataobjecthistory"
   }
