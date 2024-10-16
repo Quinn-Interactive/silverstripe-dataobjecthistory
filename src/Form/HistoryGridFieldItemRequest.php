@@ -1,5 +1,5 @@
 <?php
-namespace gorriecoe\DataObjectHistory\Forms;
+namespace gorriecoe\DataObjectHistory\Form;
 
 use SilverStripe\Forms\FieldList;
 use SilverStripe\Forms\HiddenField;
